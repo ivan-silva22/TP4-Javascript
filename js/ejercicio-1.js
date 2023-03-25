@@ -3,7 +3,7 @@ let auto = {
     marca: "Volkswagen",
     modelo: 2020,
     encender: function (){
-        document.write('<p>El auto se encendio</p>');
+        document.write('<p>Auto encendido</p>');
     },
     apagar: ()=>{
         document.write('<p>El auto se apagó</p>');
